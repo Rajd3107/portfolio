@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     const sentenceElement = document.getElementById('sentence');
-    const sentences = ["Computer Science Enthusiast", "Problem solver","Passionate Programmer", "Software Developer",];
+    const sentences = ["Computer Science Enthusiast", "Problem solver","Passionate Programmer", "Software Developer"];
     let currentSentenceIndex = 0;
     let currentCharIndex = 0;
     let isDeleting = false;
